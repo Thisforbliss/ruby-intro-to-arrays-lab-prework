@@ -33,4 +33,6 @@
   end
   
   def length_of_array(boy)
-    
+     ["park", "slope", "bench"]
+     boy.length
+   end
