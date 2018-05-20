@@ -23,5 +23,6 @@
    end
    
   def first_element_with_array_methods(chico)
-  
+   ["park", "slope", "bench"]
+   chico.first
   end
