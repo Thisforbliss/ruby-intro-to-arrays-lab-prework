@@ -18,4 +18,6 @@
   end
   
   def last_element(chico)
-    
+     ["park", "slope", "bench"]
+     chico[-1]
+   end
