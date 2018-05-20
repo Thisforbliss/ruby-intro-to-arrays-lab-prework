@@ -21,3 +21,4 @@
      ["park", "slope", "bench"]
      chico[-1]
    end
+   
