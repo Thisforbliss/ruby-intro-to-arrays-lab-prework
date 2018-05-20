@@ -8,7 +8,7 @@
   end
   
   def first_element(building)
-  [ "park", "slope"]
+  
     building[0]
   end
   
