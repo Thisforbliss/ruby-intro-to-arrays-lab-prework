@@ -31,3 +31,6 @@
    ["park", "slope", "bench"]
    boy.last
   end
+  
+  def length_of_array(boy)
+    
