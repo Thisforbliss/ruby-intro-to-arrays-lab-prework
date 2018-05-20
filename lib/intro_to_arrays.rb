@@ -15,4 +15,4 @@
   def third_element(how)
     ["park", "slope", "bench"]
     how[2]
-  end
+  
