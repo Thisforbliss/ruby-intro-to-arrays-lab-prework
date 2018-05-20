@@ -16,3 +16,6 @@
     ["park", "slope", "bench"]
     how[2]
   end
+  
+  def last_element(chico)
+    
